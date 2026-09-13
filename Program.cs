@@ -106,11 +106,32 @@
 // double bmi = weight / (height * height);
 // Console.WriteLine($"ИМТ: {bmi:F2}");
 
+// Console.WriteLine();
+// Console.WriteLine("Разбор ФИО");
+// Console.Write("Введите фамилию: ");
+// string lastName = Console.ReadLine();
+// Console.Write("Введите имя: ");
+// string firstName = Console.ReadLine();
+// char initial = firstName[0];
+// Console.WriteLine($"{lastName} {initial}.");
+
 Console.WriteLine();
-Console.WriteLine("Разбор ФИО");
-Console.Write("Введите фамилию: ");
-string lastName = Console.ReadLine();
-Console.Write("Введите имя: ");
-string firstName = Console.ReadLine();
-char initial = firstName[0];
-Console.WriteLine($"{lastName} {initial}.");
+Console.WriteLine("TryParse на трёх типах");
+
+// Целое число
+Console.Write("Введите целое число: ");
+string intInput = Console.ReadLine();
+bool intSuccess = int.TryParse(intInput, out int intValue);
+Console.WriteLine($"int.TryParse: {intSuccess}, значение: {intValue}");
+
+// Дробное число
+Console.Write("Введите дробное число: ");
+string doubleInput = Console.ReadLine();
+bool doubleSuccess = double.TryParse(doubleInput, out double doubleValue);
+Console.WriteLine($"double.TryParse: {doubleSuccess}, значение: {doubleValue}");
+
+// Дата
+Console.Write("Введите дату в формате дд.мм.гггг: ");
+string dateInput = Console.ReadLine();
+bool dateSuccess = DateTime.TryParse(dateInput, out DateTime dateValue);
+Console.WriteLine($"DateTime.TryParse: {dateSuccess}, значение: {dateValue:dd.MM.yyyy}");
