@@ -12,3 +12,4 @@ C:\Users\cojig\Documents\Lab02-Coi\obj\Debug\net10.0\refint\Lab02-Coi.dll
 C:\Users\cojig\Documents\Lab02-Coi\obj\Debug\net10.0\Lab02-Coi.pdb
 C:\Users\cojig\Documents\Lab02-Coi\obj\Debug\net10.0\Lab02-Coi.genruntimeconfig.cache
 C:\Users\cojig\Documents\Lab02-Coi\obj\Debug\net10.0\ref\Lab02-Coi.dll
+C:\Users\cojig\Documents\Lab02-Coi\obj\Debug\net10.0\Lab02-Coi.sourcelink.json
