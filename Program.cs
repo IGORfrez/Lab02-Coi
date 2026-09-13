@@ -97,3 +97,11 @@
 // Console.WriteLine($"Балл >= 4.0: {isGoodStudent}");
 // Console.WriteLine($"Любимая буква: {favoriteLetter}");
 
+Console.WriteLine();
+Console.WriteLine("Калькулятор ИМТ");
+Console.Write("Введите рост в метрах: ");
+double height = double.Parse(Console.ReadLine());
+Console.Write("Введите вес в килограммах: ");
+double weight = double.Parse(Console.ReadLine());
+double bmi = weight / (height * height);
+Console.WriteLine($"ИМТ: {bmi:F2}");
