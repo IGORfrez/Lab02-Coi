@@ -1,0 +1,14 @@
+C:\Users\cojig\Documents\Lab02-Coi\bin\Debug\net10.0\Lab02-Coi.exe
+C:\Users\cojig\Documents\Lab02-Coi\bin\Debug\net10.0\Lab02-Coi.deps.json
+C:\Users\cojig\Documents\Lab02-Coi\bin\Debug\net10.0\Lab02-Coi.runtimeconfig.json
+C:\Users\cojig\Documents\Lab02-Coi\bin\Debug\net10.0\Lab02-Coi.dll
+C:\Users\cojig\Documents\Lab02-Coi\bin\Debug\net10.0\Lab02-Coi.pdb
+C:\Users\cojig\Documents\Lab02-Coi\obj\Debug\net10.0\Lab02-Coi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cojig\Documents\Lab02-Coi\obj\Debug\net10.0\Lab02-Coi.AssemblyInfoInputs.cache
+C:\Users\cojig\Documents\Lab02-Coi\obj\Debug\net10.0\Lab02-Coi.AssemblyInfo.cs
+C:\Users\cojig\Documents\Lab02-Coi\obj\Debug\net10.0\Lab02-Coi.csproj.CoreCompileInputs.cache
+C:\Users\cojig\Documents\Lab02-Coi\obj\Debug\net10.0\Lab02-Coi.dll
+C:\Users\cojig\Documents\Lab02-Coi\obj\Debug\net10.0\refint\Lab02-Coi.dll
+C:\Users\cojig\Documents\Lab02-Coi\obj\Debug\net10.0\Lab02-Coi.pdb
+C:\Users\cojig\Documents\Lab02-Coi\obj\Debug\net10.0\Lab02-Coi.genruntimeconfig.cache
+C:\Users\cojig\Documents\Lab02-Coi\obj\Debug\net10.0\ref\Lab02-Coi.dll
